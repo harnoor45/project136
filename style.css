@@ -1,0 +1,33 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+    margin: 0;
+}
+#start , #object , #status  {
+    font-size: 18px;
+}
+
+.footer {
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    text-align: center;
+    background-color: chartreuse;
+    width : 100%;
+}
+Canvas {
+    box-shadow:  5px 5px 5px green;
+    border-width: 2px;
+    border-color: honeydew;
+    border-style: solid;
+    margin-top: 110px;
+
+}
+
+.contant {
+font-size: 15px;
+}
